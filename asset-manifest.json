@@ -1,13 +1,13 @@
 {
-  "main.css": "/Skyller360/random-calembour/static/css/main.5cb9ab68.chunk.css",
-  "main.js": "/Skyller360/random-calembour/static/js/main.f8bb3fb4.chunk.js",
-  "main.js.map": "/Skyller360/random-calembour/static/js/main.f8bb3fb4.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/Skyller360/random-calembour/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/Skyller360/random-calembour/static/js/1.37f90d57.chunk.js.map",
-  "runtime~main.js": "/Skyller360/random-calembour/static/js/runtime~main.4a04edc7.js",
-  "runtime~main.js.map": "/Skyller360/random-calembour/static/js/runtime~main.4a04edc7.js.map",
-  "static/css/main.5cb9ab68.chunk.css.map": "/Skyller360/random-calembour/static/css/main.5cb9ab68.chunk.css.map",
-  "index.html": "/Skyller360/random-calembour/index.html",
-  "precache-manifest.84ca140db4df0413b9c696e20913b806.js": "/Skyller360/random-calembour/precache-manifest.84ca140db4df0413b9c696e20913b806.js",
-  "service-worker.js": "/Skyller360/random-calembour/service-worker.js"
+  "main.css": "/random-calembour/static/css/main.5cb9ab68.chunk.css",
+  "main.js": "/random-calembour/static/js/main.9663f583.chunk.js",
+  "main.js.map": "/random-calembour/static/js/main.9663f583.chunk.js.map",
+  "static/js/1.37f90d57.chunk.js": "/random-calembour/static/js/1.37f90d57.chunk.js",
+  "static/js/1.37f90d57.chunk.js.map": "/random-calembour/static/js/1.37f90d57.chunk.js.map",
+  "runtime~main.js": "/random-calembour/static/js/runtime~main.428da98f.js",
+  "runtime~main.js.map": "/random-calembour/static/js/runtime~main.428da98f.js.map",
+  "static/css/main.5cb9ab68.chunk.css.map": "/random-calembour/static/css/main.5cb9ab68.chunk.css.map",
+  "index.html": "/random-calembour/index.html",
+  "precache-manifest.76a7d715a65e46b08d89fb42a8d42632.js": "/random-calembour/precache-manifest.76a7d715a65e46b08d89fb42a8d42632.js",
+  "service-worker.js": "/random-calembour/service-worker.js"
 }

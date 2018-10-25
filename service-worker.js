@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Skyller360/random-calembour/precache-manifest.84ca140db4df0413b9c696e20913b806.js"
+  "/random-calembour/precache-manifest.76a7d715a65e46b08d89fb42a8d42632.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Skyller360/random-calembour/index.html", {
+workbox.routing.registerNavigationRoute("/random-calembour/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
