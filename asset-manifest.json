@@ -1,13 +1,13 @@
 {
   "main.css": "/random-calembour/static/css/main.5cb9ab68.chunk.css",
-  "main.js": "/random-calembour/static/js/main.ae7f0c2b.chunk.js",
-  "main.js.map": "/random-calembour/static/js/main.ae7f0c2b.chunk.js.map",
+  "main.js": "/random-calembour/static/js/main.481b1724.chunk.js",
+  "main.js.map": "/random-calembour/static/js/main.481b1724.chunk.js.map",
   "static/js/1.37f90d57.chunk.js": "/random-calembour/static/js/1.37f90d57.chunk.js",
   "static/js/1.37f90d57.chunk.js.map": "/random-calembour/static/js/1.37f90d57.chunk.js.map",
   "runtime~main.js": "/random-calembour/static/js/runtime~main.428da98f.js",
   "runtime~main.js.map": "/random-calembour/static/js/runtime~main.428da98f.js.map",
   "static/css/main.5cb9ab68.chunk.css.map": "/random-calembour/static/css/main.5cb9ab68.chunk.css.map",
   "index.html": "/random-calembour/index.html",
-  "precache-manifest.a6c2594aff4f089a03cfb155c61d5505.js": "/random-calembour/precache-manifest.a6c2594aff4f089a03cfb155c61d5505.js",
+  "precache-manifest.28778092e4bd0b89c151217c5f786eae.js": "/random-calembour/precache-manifest.28778092e4bd0b89c151217c5f786eae.js",
   "service-worker.js": "/random-calembour/service-worker.js"
 }
