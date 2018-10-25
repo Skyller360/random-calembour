@@ -1,13 +1,13 @@
 {
-  "main.css": "/random-calembour/static/css/main.5cb9ab68.chunk.css",
-  "main.js": "/random-calembour/static/js/main.481b1724.chunk.js",
-  "main.js.map": "/random-calembour/static/js/main.481b1724.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/random-calembour/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/random-calembour/static/js/1.37f90d57.chunk.js.map",
+  "main.css": "/random-calembour/static/css/main.a83d948e.chunk.css",
+  "main.js": "/random-calembour/static/js/main.df684f92.chunk.js",
+  "main.js.map": "/random-calembour/static/js/main.df684f92.chunk.js.map",
+  "static/js/1.0fa7a80d.chunk.js": "/random-calembour/static/js/1.0fa7a80d.chunk.js",
+  "static/js/1.0fa7a80d.chunk.js.map": "/random-calembour/static/js/1.0fa7a80d.chunk.js.map",
   "runtime~main.js": "/random-calembour/static/js/runtime~main.428da98f.js",
   "runtime~main.js.map": "/random-calembour/static/js/runtime~main.428da98f.js.map",
-  "static/css/main.5cb9ab68.chunk.css.map": "/random-calembour/static/css/main.5cb9ab68.chunk.css.map",
+  "static/css/main.a83d948e.chunk.css.map": "/random-calembour/static/css/main.a83d948e.chunk.css.map",
   "index.html": "/random-calembour/index.html",
-  "precache-manifest.28778092e4bd0b89c151217c5f786eae.js": "/random-calembour/precache-manifest.28778092e4bd0b89c151217c5f786eae.js",
+  "precache-manifest.0333276814d1dff28dcdc848a8b6160e.js": "/random-calembour/precache-manifest.0333276814d1dff28dcdc848a8b6160e.js",
   "service-worker.js": "/random-calembour/service-worker.js"
 }
