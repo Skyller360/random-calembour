@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/random-calembour/static/js/runtime~main.428da98f.js"
   },
   {
-    "revision": "9663f58304e4d5ad6674",
-    "url": "/random-calembour/static/js/main.9663f583.chunk.js"
+    "revision": "ae7f0c2bf450a669334e",
+    "url": "/random-calembour/static/js/main.ae7f0c2b.chunk.js"
   },
   {
     "revision": "37f90d57916b981a0157",
     "url": "/random-calembour/static/js/1.37f90d57.chunk.js"
   },
   {
-    "revision": "9663f58304e4d5ad6674",
+    "revision": "ae7f0c2bf450a669334e",
     "url": "/random-calembour/static/css/main.5cb9ab68.chunk.css"
   },
   {
-    "revision": "778a66f4af7bef2dcb14ac73a5231f74",
+    "revision": "20487fa28ee14321115d0a79f1a24f95",
     "url": "/random-calembour/index.html"
   }
 ];
